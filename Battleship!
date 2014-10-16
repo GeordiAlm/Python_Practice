@@ -41,8 +41,3 @@ for turn in range(4):
     print "Turn", turn + 1
     print_board(board)
     
-    [0,X,0,0,0]
-    [X,0,0,[X],0]
-    [0,0,0,0,X]
-    [0,0,0,0,0]
-    [O,0,0,0,0]
